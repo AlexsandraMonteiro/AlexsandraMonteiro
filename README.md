@@ -11,7 +11,8 @@ Olá! Meu nome é Alexsandra e sou uma pessoa apaixonada por aprender e explorar
 </div>
 
 #
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=alexsandramonteiro)](https://github.com/alexsandramonteiro/github-readme-stats)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=alexsandramonteiro)
+(https://github.com/alexsandramonteiro/github-readme-stats)
 #
 
 <div> 
