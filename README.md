@@ -14,6 +14,9 @@ Olá! Meu nome é Alexsandra e sou uma pessoa apaixonada por aprender e explorar
 [![Estatísticas](https://github-readme-stats.vercel.app/api?username=alexsandramonteiro)](https://github.com/alexsandramonteiro/github-readme-stats)
 
 #
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexsandramonteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <div> 
   <a href="https://www.instagram.com/alexsandra_6075?igsh=Nm9yN3U0aGh4am55&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
