@@ -24,5 +24,4 @@ Olá! Meu nome é Alexsandra e sou uma pessoa apaixonada por aprender e explorar
 <div> 
   <a href="https://www.instagram.com/alexsandra_6075?igsh=Nm9yN3U0aGh4am55&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexsandra-monteiro-015238238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ribeiro913272@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
