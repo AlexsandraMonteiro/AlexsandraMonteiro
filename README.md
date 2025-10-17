@@ -26,6 +26,14 @@ Olá! Meu nome é Alexsandra e sou uma pessoa apaixonada por aprender e explorar
 #
 
 <div> 
-  <a href="https://www.instagram.com/alexsandra_6075?igsh=Nm9yN3U0aGh4am55&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alexsandra-monteiro-015238238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/alexsandra-monteiro-015238238" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/alexsandra_6075" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50" alt="Instagram"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ribeiro913272@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" alt="Email"/>
+  </a>
+
 </div>
